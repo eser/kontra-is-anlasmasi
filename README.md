@@ -24,6 +24,10 @@ Eser 'Laroux' Özvataf
 
   - ulaşılabilir olmasını beklemeyen,
 
+  - haftalık çalışma saati yasalarda belirtilen limitleri aşmayan,
+
+  - haftanın iki gününü (normal şartlarda cumartesi ve pazar) çalışma günü ilan etmeyen,
+
 - Ek mesaiyi ücretsiz bir zorunluluk değil, çalışanın kendi saatlik ücretinden daha yüksek bir meblağ üzerinden gönüllülük esasına göre uygulayan,
 
 - Çalışanlarının sosyal ve çalışan haklarını koruyan,
@@ -45,6 +49,10 @@ Eser 'Laroux' Özvataf
   - Yetersiz kaynaklarla (insan, donanım, v.s.) iş yapılmasını beklemeyen,
 
 - "HTML yazacak kişi" gibi bir pozisyon için herhangi bir yazılım dersi almış bir çalışan yeterli iken, mühendis'in yaptığı işin tanımını bilmeksizin ondan mühendis diploması istemeyen, istiyor ise ilgili pozisyon için "HTML yazan kişi" ücreti yerine mühendis ücreti vermeyi düşünebilen,
+
+- Çalışan adayının özgeçmişine "göz atmak" yerine özenle okuyup değerlendirecek, özgeçmişle ilgili anlamadığı, detaylı bilmek istediği ve eksik olduğunu düşündüğü noktaları sorarak ilgili pozisyon için adayın artı ve eksilerini değerlendirebilecek,
+
+- Maaşı kişinin yaşam şartları (yaşı, evli olması, çocuk sahibi olması, aracı olması, ev kirası, borçları) üzerinden değil de yapacağı iş üzerinden belirleyecek,
 
 - Her ne kadar mümkün olsa da, yazılımcısından sözleşme hazırlamasını, slogan bulmasını, deneyimli bir şoför olmasını, arayıp "müşterinin gazını almasını" istemeyen,
 
