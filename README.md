@@ -52,14 +52,31 @@ Eser 'Laroux' Özvataf
 
 - Çalışan adayının özgeçmişine "göz atmak" yerine özenle okuyup değerlendirecek, özgeçmişle ilgili anlamadığı, detaylı bilmek istediği ve eksik olduğunu düşündüğü noktaları sorarak ilgili pozisyon için adayın artı ve eksilerini değerlendirebilecek,
 
-- Maaşı kişinin yaşam şartları (yaşı, evli olması, çocuk sahibi olması, aracı olması, ev kirası, borçları) üzerinden değil de yapacağı iş üzerinden belirleyecek,
+- Maaşı kişinin yaşam şartları (yaşı, evli olması, çocuk sahibi olması, aracı olması, ev kirası, borçları) üzerinden değil de yapacağı iş üzerinden ve kişinin hayatı boyunca edindiği tebrübelere göre belirleyecek,
 
-- Her ne kadar mümkün olsa da, yazılımcısından sözleşme hazırlamasını, slogan bulmasını, deneyimli bir şoför olmasını, arayıp "müşterinin gazını almasını" istemeyen,
+- Her ne kadar mümkün olsa da, yazılımcısından sözleşme hazırlamasını, slogan bulmasını, deneyimli bir şoför olmasını, arayıp "müşterinin gazını almasını" istemeyen, çalşanının bir köle olmadığını onunda kendisine ait bir ruhu olduğunu ve evrensele hizmet etmek için varolmuş olduğunun farkına varmış,
 
 - Kendi sosyal medya projelerine çalışanlarının kişisel hesaplarını aracı etmeyen,
 
 - Çalışanlarının sosyal medya hesaplarına stalker olarak yaklaşmayan,
 
 - Kişisel tercih, tavırlara odaklanmayacak,
+
+- Çalışanları kamera ses kaydı gibi teknolojilerle takip etmeyen
+
+- Performans takibi yapmayan performans takibinin anlamsız olduğunun farkında olan 
+
+- Yapılan işin sevgiyle ve ekip ruhuyla yapılırsa daha verimli ve sağlıklı olduğuna inanan, ekip içerisindeki her bir insanın farklı yetenekleri olduğunu kavramış her bir parçanın aslında bütünü oluşturduğunu görebilecek kavrama yeteneğine sahip olabilen veya olmak için çabalayan
+
+- Paranın hiç de önemli olmadığını aslında para yı düşünmeden işin sevgiyle ve ruhla yapıldığında paranın zaten kendiliğinden gelebileceğinin farkında olan evrensel akışın, evrensel enerjinin akışını kesmeyen doğa ya ve insanlara saygılı çalışan her ruhun kendine ait değil aslında evrenselin bir parçası olduğunu anlamış
+
+- Kazanılan paranın aslında ona ait değil evrensele ait olduğunu evrensel eğer istemezse para akışının ona gelmeceğini farkına varmış
+
+- Çalışanlara baskı uygulandığında onların verimlerinin düştüğünün farkında olan, baskının insanların yetenekleri kısıtladığını görebilen insan ruhunun özgürlüğüne saygı duyan, insan ruhunun mutluluk için varolduğunu öngören pozitif düşüncelerin ve sevginin insan enerjisi üzerindeki yaptığı mucizevi etkilerin farkına olan, 
+
+- Maddi dünyanın bir eğitim yeri olduğunu kavramış buna göre ona gönderilmiş her bir ruhun aslında kendisine bu hayatta verilebilecek bir eğitimin parçası olduğuna inanmış bu yüzden ki insanlara güvenen, çalışanların birbirleri arasındaki güven duygusunun geliştirmek için çabalayan
+
+- Toplumsal huzurun ve refahın bireye verilecek eğitimlerden geçtiğine inanan,
+
 
 bir işyeri arıyorum. Konu yukarıdaki şartları karşılayamamak değil, tamamen edinilen iş tecrübesiyle "iş yapmak" tanımının dışında kalan kısımları ortaya koymakla ilgilidir.
