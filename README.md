@@ -1,7 +1,7 @@
 Kontra İş Anlaşması
 ===================
 
-## Giriş ##
+# Giriş
 
 Bir çok yazılım firması, bir çok ilan veriyor. İlanlarda yer alan talepler de şirketlerin varsaydığı "eleman fazlalığı" ile doğru orantılı olarak artış gösteriyor. Bazı ilanlar var ki bizler tarafından eğlence amaçlı olarak arkadaşlara gönderilen kara mizah çizgisine yakın çizgide seyrediyorlar.
 
@@ -12,7 +12,8 @@ Esas şu ki, iyi bir yazılımcı şirket tarafından ne arandığına değil, �
 Eser 'Laroux' Özvataf
 [http://eser.ozvataf.com/](http://eser.ozvataf.com/)
 
-## Manifesto ##
+
+# Manifesto
 
 - Mesai saatleri esnek olmayan,
 
@@ -63,3 +64,13 @@ Eser 'Laroux' Özvataf
 - Kişisel tercih, tavırlara odaklanmayacak,
 
 bir işyeri arıyorum. Konu yukarıdaki şartları karşılayamamak değil, tamamen edinilen iş tecrübesiyle "iş yapmak" tanımının dışında kalan kısımları ortaya koymakla ilgilidir.
+
+
+# Lisans
+
+Public Domain
+
+
+# Benzer
+
+* [Headhunter-Savar](https://github.com/burakcan/Headhunter-Savar)
