@@ -39,7 +39,7 @@ Eser 'Laroux' Özvataf
 
   - Yıllık izin konusunda pazarlık yapmayan,
 
-  - Anlaşılan periodlarda "maaş artışı değerlendirmesi"ni "gözden geçirmek" yerine "gerçekleştiren",
+  - Anlaşılan periodlarda "maaş artışı değerlendirmesi"ni "gözden geçirmek" yerine "gerçekleştiren" ve yıllık enflasyon rakamlarına göre gerekli düzeltmeleri yapan,
 
   - Anlaşılan periodlarda ücret ödemesini eksiksiz yapan,
 
