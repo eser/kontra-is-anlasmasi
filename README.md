@@ -9,7 +9,7 @@ Esas şu ki, iyi bir yazılımcı şirket tarafından ne arandığına değil, �
 
 İşte tam da bu nedenden dolayı GitHub gibi bir platform üzerinden yazılımcıların kendi iş prensiplerini listeleyebilecekleri bir proje başlatmak istedim. Bu basit manifesto hem forklanarak kişilerin kendi taleplerini oluşturmaları ve belirtmelerine yardımcı olabilecek, hem de kişisel görünen hassasiyetlerin ne kadar yaygın olduğu konusunda bir farkındalık oluşturacak diye umuyorum.
 
-Eser 'Laroux' Özvataf
+Eser Özvataf  
 [http://eser.ozvataf.com/](http://eser.ozvataf.com/)
 
 
@@ -39,7 +39,7 @@ Eser 'Laroux' Özvataf
 
   - Yıllık izin konusunda pazarlık yapmayan,
 
-  - Anlaşılan periodlarda "maaş artışı değerlendirmesi"ni "gözden geçirmek" yerine "gerçekleştiren" ve yıllık enflasyon rakamlarına göre gerekli düzeltmeleri yapan,
+  - Anlaşılan periodlarda "maaş artışı değerlendirmesi"ni "gözden geçirmek" yerine "gerçekleştiren", bu artışı da "yapılması gereken asgari ücret arttırımına" **ek olarak** performansa dayalı belirleyen,
 
   - Anlaşılan periodlarda ücret ödemesini eksiksiz yapan,
 
@@ -61,7 +61,11 @@ Eser 'Laroux' Özvataf
 
 - Çalışanlarının sosyal medya hesaplarına stalker olarak yaklaşmayan,
 
+- Çalışanlarının gizlilik ve özel hayatlarına saygı çerçevesinde onları sesli veya görüntülü olarak kayıt altına almayan,
+
 - Kişisel tercih, tavırlara odaklanmayacak,
+
+- Cinsiyetçi yaklaşımları olmayan,
 
 bir işyeri arıyorum. Konu yukarıdaki şartları karşılayamamak değil, tamamen edinilen iş tecrübesiyle "iş yapmak" tanımının dışında kalan kısımları ortaya koymakla ilgilidir.
 
@@ -74,3 +78,4 @@ Public Domain
 # Benzer
 
 * [Headhunter-Savar](https://github.com/burakcan/Headhunter-Savar)
+* [faruk-sengun-kinama](https://github.com/azmesai/faruk-sengul-kinama)
