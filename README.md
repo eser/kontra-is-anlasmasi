@@ -39,6 +39,8 @@ Eser Özvataf
 
   - Yıllık izin konusunda pazarlık yapmayan,
 
+  - Cuma günü izin aldığında Cumartesi izinli göstermeyip, yıllık izinden iki gün düşmeyen,
+
   - Anlaşılan periodlarda "maaş artışı değerlendirmesi"ni "gözden geçirmek" yerine "gerçekleştiren", bu artışı da "yapılması gereken asgari ücret arttırımına" **ek olarak** performansa dayalı belirleyen,
 
   - Anlaşılan periodlarda ücret ödemesini eksiksiz yapan,
